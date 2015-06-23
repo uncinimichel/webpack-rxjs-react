@@ -1,0 +1,14 @@
+#logs
+*.log
+
+# Emacs
+*~
+
+# node modules
+node_modules/
+
+\#*
+.\#*
+
+# dist
+dist/
